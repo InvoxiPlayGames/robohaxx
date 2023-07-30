@@ -1,0 +1,11 @@
+# payload artifacts
+*.bin
+*.elf
+*.o
+*.gci
+# executable artifacts
+*.exe
+gci_builder
+*.dSYM
+# other stuff
+*.zip
