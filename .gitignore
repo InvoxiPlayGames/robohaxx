@@ -2,10 +2,18 @@
 *.bin
 *.elf
 *.o
+ernie
+# wip shellcode
+*.asm
+# output artifacts
 *.gci
+*.xsv
+*.xbx
+*.xbe
 # executable artifacts
 *.exe
 gci_builder
+xsv_builder
 *.dSYM
 # other stuff
 *.zip

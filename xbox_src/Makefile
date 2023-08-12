@@ -1,9 +1,9 @@
-TARGET := gci_builder
+TARGET := xsv_builder
 ifeq ($(OS),Windows_NT)
 	TARGET := $(addsuffix .exe,$(TARGET))
 endif
 
-SRC := gci_builder.c
+SRC := sha1.c hmac_sha1.c xsv_builder.c
 
 default: all
 

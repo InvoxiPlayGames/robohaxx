@@ -38,8 +38,8 @@ If you only want to build for a specific region, type `make usa` or `make eur`.
 
 ## License
 
-The memory card loader and GCI builder are licensed under the GNU General Public License version 2. See attached
+The GameCube memory card loader and GCI builder are licensed under the GNU General Public License version 2. See attached
 LICENSE file for more details.
 
-This chain uses FIX94's [gc-exploit-common-loader](https://github.com/FIX94/gc-exploit-common-loader), also licensed
+The GameCube chain uses FIX94's [gc-exploit-common-loader](https://github.com/FIX94/gc-exploit-common-loader), also licensed
 under GPLv2.
