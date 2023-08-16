@@ -3,9 +3,8 @@
 *.elf
 *.o
 ernie
-# wip shellcode
-*.asm
 # output artifacts
+savegame
 *.gci
 *.xsv
 *.xbx
